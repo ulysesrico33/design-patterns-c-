@@ -9,8 +9,7 @@
 
 - It's really amazing, yesterday at work again I was very interested on doing something with the Registry and the main issue was that I had to design somethings so it could be mocked and tested, and to do so I had to design it properly. I learnt that was I was trying to achive is a design pattern known as **Wrapper or Adapter or Decorator**. So yes, it's official , I have a vocation for software development but not just for that but for **SOFTWARE ARCHIETCTURE**.
 
-# Resources for design patterns
+# Wiki for design patterns
 
-- [Refactoring guru - Design patterns](https://refactoring.guru/design-patterns)
-- [Patrones de Diseño](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
-- [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- https://github.com/ulysesrico33/design-patterns/wiki
+
