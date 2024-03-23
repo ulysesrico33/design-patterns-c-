@@ -8,3 +8,5 @@
 # Resources for design patterns
 
 - [Refactoring guru - Design patterns](https://refactoring.guru/design-patterns)
+- [Patrones de Diseño](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
+- [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
